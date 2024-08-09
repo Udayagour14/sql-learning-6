@@ -18,4 +18,9 @@ First i have inserted some data's and selected the data's.
 ![image alt](https://github.com/Udayagour14/sql-learning-2/blob/main/sql%20table%206.png)
 
 
-
+![image alt](https://github.com/Udayagour14/sql-learning-6/blob/main/sql6.1.png)
+![image alt](https://github.com/Udayagour14/sql-learning-6/blob/main/sql6.2.png)
+![image alt](https://github.com/Udayagour14/sql-learning-6/blob/main/sql6.3.png)
+![image alt](https://github.com/Udayagour14/sql-learning-6/blob/main/sql6.4.png)
+![image alt](https://github.com/Udayagour14/sql-learning-6/blob/main/sql6.5.png)
+![image alt](https://github.com/Udayagour14/sql-learning-6/blob/main/sql6.6.png)
